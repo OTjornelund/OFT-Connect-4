@@ -1,0 +1,26 @@
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.csprojAssemblyReference.cache
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.AssemblyInfoInputs.cache
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.AssemblyInfo.cs
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.csproj.CoreCompileInputs.cache
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.exe
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.deps.json
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.runtimeconfig.json
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.runtimeconfig.dev.json
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.dll
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.pdb
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.dll
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.pdb
+C:\Other Files\Documents - IT and Coding Projects\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.genruntimeconfig.cache
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.exe
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.deps.json
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.runtimeconfig.json
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.runtimeconfig.dev.json
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.dll
+C:\OFT Code Misc\Connect-4\bin\Debug\netcoreapp3.1\Connect-4.pdb
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.AssemblyInfoInputs.cache
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.AssemblyInfo.cs
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.csproj.CoreCompileInputs.cache
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.dll
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.pdb
+C:\OFT Code Misc\Connect-4\obj\Debug\netcoreapp3.1\Connect-4.genruntimeconfig.cache
